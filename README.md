@@ -137,4 +137,4 @@ Contributions are welcome! To propose changes:
 
 ---
 
-**Built with ❤️ by Darshan Chaudhari**
+**Built by Darshan Chaudhari**

@@ -9,7 +9,7 @@ A modern, responsive React application for creating professional resumes with li
 **Darshan Chaudhari**
 📞 +91-7666358663
 📍 Maharashtra, India
-✉️ [darshaudhari4998@gmail.com](mailto:chaudharidarshan155@gmail.com)
+✉️ [chaudharidarshan155@gmail.com](mailto:chaudharidarshan155@gmail.com)
 
 **Portfolio:** [https://darshanchaudharii.github.io/portfolio/](https://darshanchaudharii.github.io/portfolio/)
 **LinkedIn:** [https://linkedin.com/in/darshan-chaudhari-81600118b](https://linkedin.com/in/darshan-chaudhari-81600118b)
